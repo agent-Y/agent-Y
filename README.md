@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=agent-Y
+![rcmdnk github stats](https://github-readme-stats.vercel.app/api?username=rcmdnk)
 
 <!---
 agent-Y/agent-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
